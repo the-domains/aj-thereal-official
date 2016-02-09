@@ -1,0 +1,28 @@
+name: aj.thereal official
+favicon: null
+layout_spectrum: 0.5807072967290878
+typography_spectrum: 0.3639955138787627
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.22610368952155113
+  lightness: 0.43451314605772495
+  saturation: 0.8510688340757042
+  rhythmicContrast: 0.5215172129683197
+purpose: []
